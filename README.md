@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Bimal987/Bimal987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I Am Bimal Bohara
 
-Here are some ideas to get you started:
+👨‍🎓 BCA Student  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Bachelor of Computer Applications (BCA) student with an interest in software development, web technologies, and problem solving.  
+Currently learning and building projects to strengthen my fundamentals in programming and computer science.
+
+## Interests
+- Web Development  
+- Programming Fundamentals  
+- Learning New Technologies  
+
+## Currently Learning
+- JavaScript  
+- Web Technologies  
+- Backend Basics  
+
+---
+
+📫 Always open to learning and collaboration.
