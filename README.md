@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I Am Bimal Bohara
+# I Am Bimal Bohara.
 
 👨‍🎓 BCA Student  
 
@@ -13,7 +13,8 @@ Currently learning and building projects to strengthen my fundamentals in progra
 - Learning New Technologies  
 
 ## Currently Learning
-- JavaScript  
+- JavaScript
+- Tailwind
 - Web Technologies  
 - Backend Basics  
 
