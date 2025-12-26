@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# I Am Bimal Bohara.
-
 👨‍🎓 BCA Student  
 
 I am a Bachelor of Computer Applications (BCA) student with an interest in software development, web technologies, and problem solving.  
