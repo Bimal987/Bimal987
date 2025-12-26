@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-👨‍🎓 BCA Student  
-
 I am a Bachelor of Computer Applications (BCA) student with an interest in software development, web technologies, and problem solving.  
 Currently learning and building projects to strengthen my fundamentals in programming and computer science.
 
