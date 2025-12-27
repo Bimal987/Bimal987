@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I am a Bachelor of Computer Applications (BCA) student with a interest in software development and modern web technologies.  
-I enjoy building projects and continuously improving my programming fundamentals through hands-on learning.
+I am a Bachelor of Computer Applications (BCA) student with a strong interest in software development and web technologies.  
+I focus on building projects and strengthening my programming fundamentals through hands-on practice.
 
 ## Focus Areas
 - Web Development  
@@ -11,7 +11,6 @@ I enjoy building projects and continuously improving my programming fundamentals
 ## Currently Learning
 - JavaScript  
 - Tailwind CSS  
-- Web Technologies  
 - Backend Fundamentals  
 
 ---
