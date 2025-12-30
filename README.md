@@ -9,7 +9,8 @@ I focus on building projects and strengthening my programming fundamentals throu
 - Problem Solving  
 
 ## Currently Learning
-- JavaScript  
+- JavaScript
+- Node JS
 - Tailwind CSS  
 - Backend Fundamentals  
 
