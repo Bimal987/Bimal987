@@ -6,7 +6,8 @@ I focus on building projects and strengthening my programming fundamentals throu
 ## Focus Areas
 - Web Development  
 - Core Programming Concepts  
-- Problem Solving  
+- Problem Solving
+- -skill built
 
 ## Currently Learning
 - JavaScript
