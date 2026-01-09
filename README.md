@@ -9,6 +9,7 @@ I focus on building projects and strengthening my programming fundamentals throu
 - Problem Solving
 - -skill built
 - -new language
+- -new project development
 
 ## Currently Learning
 - JavaScript
