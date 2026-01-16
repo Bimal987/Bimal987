@@ -1,10 +1,8 @@
 ## 👋 Hi there
 
-I am a **Bachelor of Computer Applications (BCA)** student with a strong interest in  
-**software development and web technologies**.
+I am a **Bachelor of Computer Applications (BCA)** student with a strong interest in software development and web technologies**.
 
-I focus on building projects and strengthening my  
-programming fundamentals through hands-on practice.
+I focus on building projects and strengthening my programming fundamentals through hands-on practice.
 
 ---
 
