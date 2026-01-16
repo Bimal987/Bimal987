@@ -1,24 +1,24 @@
-👋 Hi!
+👋 Hello there!
 
-I’m a Bachelor of Computer Applications (BCA) student focused on web development and backend technologies.
-I believe in learning by building and continuously improving my programming foundations.
+I am a BCA student with an interest in software development and web technologies.
+I focus on practical projects to strengthen my programming skills and understanding.
 
 Focus Areas
 
 Web Development
 
-Core Programming
+Programming Concepts
 
-Logical Problem Solving
+Problem Solving
 
 Currently Learning
 
 JavaScript
 
-Node.js (Express)
+Node.js with Express
 
 Tailwind CSS
 
 Backend Fundamentals
 
-📫 Interested in collaborations and new learning opportunities.
+📫 Open to learning and collaboration.
