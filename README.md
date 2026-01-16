@@ -1,17 +1,17 @@
-👋 Hello there!
+👋 Hi there!
 
-I am a BCA student with an interest in software development and web technologies.
-I focus on practical projects to strengthen my programming skills and understanding.
+I am a Bachelor of Computer Applications (BCA) student with a strong interest in software development and web technologies.
+I focus on building projects and strengthening my programming fundamentals through hands-on practice.
 
-Focus Areas
+🔧 Focus Areas
 
 Web Development
 
-Programming Concepts
+Core Programming Concepts
 
 Problem Solving
 
-Currently Learning
+📚 Currently Learning
 
 JavaScript
 
@@ -21,4 +21,4 @@ Tailwind CSS
 
 Backend Fundamentals
 
-📫 Open to learning and collaboration.
+📫 Open to learning, collaboration, and new opportunities.
